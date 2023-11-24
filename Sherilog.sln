@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sherilog", "Sherilog\Sherilog.csproj", "{403A7F42-F9B3-4451-94C5-97D138F75B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403A7F42-F9B3-4451-94C5-97D138F75B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403A7F42-F9B3-4451-94C5-97D138F75B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403A7F42-F9B3-4451-94C5-97D138F75B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403A7F42-F9B3-4451-94C5-97D138F75B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1ABFE17-9D0C-4260-A8A9-6889081F6474}
+	EndGlobalSection
+EndGlobal
